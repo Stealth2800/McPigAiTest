@@ -1,0 +1,7 @@
+name: 'PigAiTest'
+version: 1.0
+main: 'com.stealthyone.pigaitest.PigAiPlugin'
+api-version: '1.19'
+
+commands:
+  pigaitest: {}
